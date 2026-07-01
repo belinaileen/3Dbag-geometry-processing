@@ -1,4 +1,4 @@
-# CityJSON Building Processing with CGAL
+e# CityJSON Building Processing with CGAL
 
 A C++ application for processing 3D building models stored in the CityJSON format. The project operates and outputs an LoD2.2 building geometries from the 3DBAG dataset and performs geometry simplification, constrained triangulation, volume, and roof area computation before exporting a valid CityJSON file.
 
@@ -11,7 +11,7 @@ A C++ application for processing 3D building models stored in the CityJSON forma
   <tr>
     <td align="center">
       <img src="img/a.png" alt="3DcityJSON" width="450"><br>
-      <b>3DcityJSON</b>
+      <b>invalid self-intersecting..</b>
     </td>
     <td align="center">
       <img src="img/b.png" alt="invalid 3D geom,non-watertight..." width="450"><br>
